@@ -21,4 +21,4 @@ To run each of the experiments, simply execute:
 where `[gamma]` is one of 0, 0.25, 0.5, 0.75, and 1.
 Example: `python3 EPS_experiments.py 0`
 
-After finishing executing, the diagram and log of times in the `results` folder will be updated.
+After finishing executing, you can find the diagram and log of times in the `results` folder.
