@@ -15,8 +15,7 @@ There are followings in the repository:
 
     - Storm models in `storm_models` folder.
     - A Python file `EPS_experiments.py` for binary search.
-    - `results` folder %containing the results we obtained by running the experiments (also in the paper). 
-
+    - `results` folder 
 To run each of the experiments, simply execute: 
 `python3 EPS_experiments.py [gamma]` 
 where `[gamma]` is one of 0, 0.25, 0.5, 0.75, and 1.
