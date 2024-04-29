@@ -1,6 +1,0 @@
-MDP, d=1, f=1: 3.7957253456115723 seconds
-MDP, d=2, f=1: 5.415561199188232 seconds
-MDP, d=2, f=2: 61.706130504608154 seconds
-MDP, d=3, f=2: 2295.2658383846283 seconds
-MDP, d=4, f=2: 77761.72759151459 seconds
-Single-tree attack, f=5: 2406.7941727638245 seconds
